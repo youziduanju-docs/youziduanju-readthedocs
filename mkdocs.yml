@@ -1,0 +1,7 @@
+site_name: 柚子短剧公开文章
+site_description: 柚子短剧观看指南与剧集资料
+docs_dir: .
+theme:
+  name: readthedocs
+nav:
+  - 文章: article.md
